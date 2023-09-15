@@ -1,0 +1,35 @@
+sort1 uses: bubble sort
+
+How do you know?: time
+
+sort2 uses: merge sort
+
+How do you know?: time
+
+sort3 uses: selection sort
+
+How do you know?: time
+
+
+
+random10000
+ sort1
+ real    0m0.323s
+user    0m0.236s
+sys     0m0.046s
+
+sort2
+real    0m0.050s
+user    0m0.010s
+sys     0m0.029s
+
+sort3
+real    0m0.179s
+user    0m0.105s
+sys     0m0.037s
+
+
+
+
+
+

@@ -1,0 +1,2 @@
+chill
+i guess a relation with another database where its listed the diferent auras that can be selected, when the average its computed it look and contrast against this database
